@@ -2,7 +2,7 @@
 USER="userToRunSounboardAs"
 SERVER_PORT=8080
 SERVICE_NAME=Soundboard
-PATH_TO_JAR=/home/yourUsername/discordSoundboard
+PATH_TO_JAR=/home/Paradox/discordSoundboard
 PID_PATH_NAME=/tmp/soundboard-pid
 case $1 in
     start)
